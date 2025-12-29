@@ -4,7 +4,7 @@ Bloxd In-Game Debugger (Codenamed Stardue Debugger) is designed to allow users t
 
 ## Usage
 
-As described in this Youtube [video](https://youtu.be/jKbtv7DhAsQ).
+As described in this [Youtube Video](https://youtu.be/jKbtv7DhAsQ).
 
 Copy worldcode_mini.js to world code.
 
